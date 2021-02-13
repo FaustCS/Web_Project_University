@@ -1,0 +1,193 @@
+body {
+    background: url(../images/sky.jpg) no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+.heading-style-main {
+    text-align: center;
+    font-size: 24px;
+}
+
+.heading-style {
+    text-align: center;
+    font-size: 22px;
+}
+
+.text-style {
+    font-size: 1.2em;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-link-first:link {
+    color: #000000;
+}
+
+.nav-link-first:visited {
+    color: #ac0606;
+}
+
+.nav-link-second:link {
+    color: #282a97;
+}
+
+.nav-link-second:visited {
+    color: #13c00d;
+}
+
+.nav-link-third:link {
+    color: #b3315c;
+}
+
+.nav-link-third:visited {
+    color: #d4b713;
+}
+
+.nav-link-fourth:link {
+    color: #032431;
+}
+
+.nav-link-fourth:visited {
+    color: #c0550d;
+}
+
+.back-to-main-link {
+    font-style: italic;
+}
+
+.heading-align {
+    text-align: center;
+}
+
+.btn-group {
+    width: 100%;
+}
+
+.btn-group button {
+    background-color: #4244af;
+    border: 1px solid #4244af;
+    color: #fcfbf8;
+    width: 19%;
+    height: 45px;
+}
+
+.btn-group button:hover {
+    background-color: #b3315c;
+    border: 1px solid #b3315c;
+    color: #000;
+}
+
+.btn-group button:focus {
+    background-color: #e3f824;
+    border: 1px solid #e3f824;
+    color: #070707;
+    width: 18%;
+}
+
+#text-style-autobiography {
+    font-size: 1.2em;
+}
+
+#text-style-autobiography h2 {
+    font-size: 1.4em;
+}
+
+.article-text-base-information {
+    background-color: #d4b713;
+    color: #4244af;
+}
+
+.article-text-childhood {
+    background-color: #000000;
+    color: #ac0606;
+}
+
+.article-text-school-years {
+    background-color: #00ffff;
+    color: #074105;
+}
+
+.article-text-out-of-school {
+    background-color: #ac0606;
+    color: #000;
+}
+
+.article-text-university {
+    background-color: #032431;
+    color: #fcfbf8;
+}
+
+#text-style-autobiography a {
+    font-weight: 700;
+}
+
+.upper-style {
+    text-transform: uppercase;
+}
+
+.product-list li:nth-child(odd) {
+    background-color: #667175;
+}
+
+.product-list li:nth-child(even) {
+    background-color: #fff;
+}
+
+.recipe li:nth-child(3):hover {
+    text-decoration: underline;
+}
+
+.recipe li:nth-child(5):hover {
+    text-decoration: underline;
+}
+
+.recipe li:nth-child(4) {
+    background: #ac0606;
+}
+
+.table-friends, th, td {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.table-heading {
+    text-align: center;
+    background-color: #048820;
+    color: #fff;
+    font-weight: 700;
+}
+
+tr:nth-child(2n+2) {
+    background-color: #667175;
+}
+
+tr:nth-child(2n+3) {
+    background-color: #fff;
+}
+
+tr:last-child {
+    text-align: right;
+}
+
+.head-first {
+    font-size: 1.05em;
+}
+
+.head-second {
+    font-size: 1.95em;
+}
+
+.head-third {
+    font-size: 2.6em;
+}
+
+.img-position {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
