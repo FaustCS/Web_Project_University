@@ -1,6 +1,6 @@
 body {
-    background: url(../images/sky.jpg) no-repeat center;
-    -webkit-background-size: cover;
+    /*background: url(../images/sky.jpg) no-repeat center;
+    */-webkit-background-size: cover;
     -moz-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -66,14 +66,7 @@ a {
 
 .btn-group {
     width: 100%;
-}
-
-.btn-group button {
-    background-color: #4244af;
-    border: 1px solid #4244af;
-    color: #fcfbf8;
-    width: 19%;
-    height: 45px;
+    justify-content: space-between;
 }
 
 .btn-group button:hover {
@@ -95,31 +88,6 @@ a {
 
 #text-style-autobiography h2 {
     font-size: 1.4em;
-}
-
-.article-text-base-information {
-    background-color: #d4b713;
-    color: #4244af;
-}
-
-.article-text-childhood {
-    background-color: #000000;
-    color: #ac0606;
-}
-
-.article-text-school-years {
-    background-color: #00ffff;
-    color: #074105;
-}
-
-.article-text-out-of-school {
-    background-color: #ac0606;
-    color: #000;
-}
-
-.article-text-university {
-    background-color: #032431;
-    color: #fcfbf8;
 }
 
 #text-style-autobiography a {
@@ -151,15 +119,15 @@ a {
 }
 
 .table-friends, th, td {
-    border: 1px solid black;
-    padding: 15px;
+    border: 1px solid black !important;
+    padding: 15px !important;
 }
 
 .table-heading {
     text-align: center;
-    background-color: #048820;
-    color: #fff;
-    font-weight: 700;
+    background-color: #048820 !important;
+    color: #fff i !important;
+    font-weight: 700 !important;
 }
 
 tr:nth-child(2n+2) {
