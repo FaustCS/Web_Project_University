@@ -1,3 +1,7 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 article {
     font-size: 1.25em;
     border: 2px solid #000;
@@ -12,36 +16,43 @@ article p {
     padding: 20px;
 }
 
-#text-style-autobiography {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);    
+#base-information {
+    background-color: #d4b713;
 }
 
-@media screen and (max-width: 768px) {
-    article {
-      height: 100%;
-    }
-    #text-style-autobiography{
-      grid-gap: 35px;
-    }
-    #text-style-autobiography > article:nth-child(1) {
-      grid-row: 1;
-      grid-column: 1/5;
-    }
-    #text-style-autobiography > article:nth-child(2) {
-      grid-row: 2;
-      grid-column: 1/5;
-    }
-    #text-style-autobiography > article:nth-child(3) {
-      grid-row: 3;
-      grid-column: 1/5;
-    }
-    #text-style-autobiography > article:nth-child(4) {
-      grid-row: 4;
-      grid-column: 1/5;
-    }
-    #text-style-autobiography > article:nth-child(5) {
-      grid-row: 5;
-      grid-column: 1/5;
-    }
-  }
+.article-text-base-information {
+    color: #4244af;
+}
+
+#childhood {
+    background-color: #000000;  
+}
+
+.article-text-childhood {
+    color: #ac0606;
+}
+
+#school-years {
+    background-color: #00ffff;
+}
+
+.article-text-school-years {
+    color: #074105;
+}
+
+#out-of-school {
+    background-color: #ac0606;
+}
+
+.article-text-out-of-school {
+    color: #000;
+}
+
+#university {
+    background-color: #155e7a;
+}
+
+.article-text-university {
+    color: #fcfbf8;
+}
+
