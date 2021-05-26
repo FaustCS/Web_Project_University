@@ -19,7 +19,7 @@ function degreesToRadians(degrees) {
     return degrees * (Math.PI / 180);
 }
 
-function parametrsValidation(val1, type1, val2, type2) {
+function triangle(val1, type1, val2, type2) {
     let conditions = type1 + type2;
 
     if(val1 <= 0 || val2 <= 0) {
