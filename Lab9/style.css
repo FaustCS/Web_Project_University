@@ -1,0 +1,19 @@
+body{
+	background: #fafafa;	
+}
+
+.custom-color{
+	color: #000!important;
+	background: #6a2d92;
+	border-color: #6F8996!important;
+}
+
+.custom-color-inverse{
+	color: #fff!important;
+	background: #690972;
+	border-color: #6F8996!important;
+}
+
+.text-justify{
+	text-align: justify;
+}

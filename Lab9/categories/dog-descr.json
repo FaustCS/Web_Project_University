@@ -1,0 +1,51 @@
+{"catalog_items":[
+	{
+		"id":1,
+		"shortname":"Собака1",
+		"name":"Назва Собаки1",
+		"description":"Some text for description",
+		"year":3
+	},
+	{
+		"id":2,
+		"shortname":"Собака2",
+		"name":"Назва Собаки2",
+		"description":"Some text for description",
+		"year":9
+	},
+	{
+		"id":3,
+		"shortname":"Собака3",
+		"name":"Назва Собаки3",
+		"description":"Some text for description",
+		"year":6
+	},
+	{
+		"id":4,
+		"shortname":"Собака4",
+		"name":"Назва Собаки4",
+		"description":"Some text for description",
+		"year":2
+	},
+	{
+		"id":5,
+		"shortname":"Собака5",
+		"name":"Назва Собаки5",
+		"description":"Some text for description",
+		"year":4
+	},
+	{
+		"id":6,
+		"shortname":"Собака6",
+		"name":"Назва Собаки6",
+		"description":"Some text for description",
+		"year":6
+	}
+],
+	"category":
+	{
+		"shortname":"Собаки",
+		"name":"Породи собак",
+		"special_instruction":"Special instruction is special"
+	}
+}
