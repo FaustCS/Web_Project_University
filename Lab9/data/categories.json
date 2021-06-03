@@ -2,32 +2,32 @@
   {
     "id": 1,
     "name": "Собаки вівчарі",
-    "shortname": "Собаки",
-    "url": "categories/dog-descr.json",
-    "special_instruction":null,
+    "shortname": "dog",
+    "url": "categories/dog.json",
+    "special_instruction":"Special instruction is special",
     "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing, elit. Veniam voluptatibus beatae impedit tempora nemo officia esse, accusantium nisi repellat aut libero dolore voluptas enim ullam reprehenderit aliquam rerum magni inventore!"
   },
   {
     "id": 2,
     "name": " Пінчери та шнауцери",
-    "shortname": "Собаки",
-    "url": "categories/dog-descr.json",
+    "shortname": "dog",
+    "url": "categories/dog.json",
     "special_instruction":null,
     "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing, elit. Veniam voluptatibus beatae impedit tempora nemo officia esse, accusantium nisi repellat aut libero dolore voluptas enim ullam reprehenderit aliquam rerum magni inventore!"
   },
   {
     "id": 3,
     "name": "Тер'єри",
-    "shortname": "Собаки",
-    "url": "categories/dog-descr.json",
+    "shortname": "dog",
+    "url": "categories/dog.json",
     "special_instruction":null,
     "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing, elit. Veniam voluptatibus beatae impedit tempora nemo officia esse, accusantium nisi repellat aut libero dolore voluptas enim ullam reprehenderit aliquam rerum magni inventore!"
   },
   {
     "id": 4,
-    "name": "Шпіци",
+    "name": "dog",
     "shortname": "Собаки",
-    "url": "categories/dog-descr.json",
+    "url": "categories/dog.json",
     "special_instruction":null,
     "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing, elit. Veniam voluptatibus beatae impedit tempora nemo officia esse, accusantium nisi repellat aut libero dolore voluptas enim ullam reprehenderit aliquam rerum magni inventore!"
   }
