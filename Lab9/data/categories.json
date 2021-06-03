@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": " Пінчери та шнауцери",
+    "name": " Пінчери",
     "shortname": "dog",
     "url": "categories/dog.json",
     "special_instruction":null,
@@ -18,16 +18,16 @@
   {
     "id": 3,
     "name": "Тер'єри",
-    "shortname": "dog",
-    "url": "categories/dog.json",
+    "shortname": "dog1",
+    "url": "categories/dog1.json",
     "special_instruction":null,
     "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing, elit. Veniam voluptatibus beatae impedit tempora nemo officia esse, accusantium nisi repellat aut libero dolore voluptas enim ullam reprehenderit aliquam rerum magni inventore!"
   },
   {
-    "id": 4,
-    "name": "dog",
-    "shortname": "Собаки",
-    "url": "categories/dog.json",
+    "id": 0,
+    "name": "Шпіци",
+    "shortname": "dog1",
+    "url": "categories/dog1.json",
     "special_instruction":null,
     "notes": "Lorem ipsum dolor sit amet consectetur, adipisicing, elit. Veniam voluptatibus beatae impedit tempora nemo officia esse, accusantium nisi repellat aut libero dolore voluptas enim ullam reprehenderit aliquam rerum magni inventore!"
   }
