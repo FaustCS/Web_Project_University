@@ -79,7 +79,7 @@
 	}
 
 	function buildCategoriesViewHtml(categories, categoriesTitleHtml, categoryHtml) {
-
+		//
 		var finalHtml = categoriesTitleHtml;
 		finalHtml += '<section class="row">';
 
